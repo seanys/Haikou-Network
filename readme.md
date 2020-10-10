@@ -20,7 +20,7 @@
 
 ### 建立城市主干道
 
-![image-20201010153404186](/Users/sean/Documents/Projects/My Github/Haikou-Network/img/image-20201010153404186.png)
+![image-20201010153404186](img/image-20201010153404186.png)
 
 ### 数据预处理
 
